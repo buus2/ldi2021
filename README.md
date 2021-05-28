@@ -1,4 +1,4 @@
-# Demo from Lubelskie Dni Informatyki, 28.05.2021
+# Demo from Lubelskie Dni Informatyki, 29.05.2021
 
 ## Preparation
 ```
